@@ -9,6 +9,7 @@
   </parent>
 
   <groupId>org.springframework.samples</groupId>
+  <artifactId>spring-petclinic</artifactId>
   <version>4.1.1-SNAPSHOT</version>
 
   <name>petclinic</name>
